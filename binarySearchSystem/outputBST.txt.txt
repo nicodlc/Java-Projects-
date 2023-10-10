@@ -1,0 +1,170 @@
+Keyword: blobs
+-  39393 | Region-Based Image Querying | Chuck Carson
+ 
+Keyword: buildings
+-  93859 | Consistent Line Clusters for Building Recognition | Yi Li
+
+Keyword: causal-relationships
+-  77329 | Mining Observational Databases for Causal Relationships | Gary Cooper
+
+Keyword: classification-rules
+-  65676 | A Theory of Learning Classification Rules | Wayne Bunt
+-  74937 | Learning Classification Rules Using Neural Networks | Wayne Bunt
+
+Keyword: clustering
+-  54326 | An Efficient Clustering Algorithm for Large Databases | Soha Guha
+-  85490 | An Algorithm for Discovering Clusters in Large Spatial Databases | Maria Ester
+-  93937 | Scaling Clustering Algorithms to Large Databases | Paul Bradley
+-  93859 | Consistent Line Clusters for Building Recognition | Yi Li
+
+Keyword: concepts
+-  58765 | Noise-Tolerant Relational Concept Learning | Chris Brunk
+-  12568 | Queries and Concept Learning | Dave Angluin
+-  79871 | Concept Learning and Flexible Weighting | Dan Aha
+-  89763 | Instance-Based Learning of Independent and Graded Concepts | Dan Aha
+
+Keyword: content-based
+-  87124 | Learning for Content-Based Image Retrieval | Tom Huang
+-  65722 | Searching Multimedia Databases by Content | Chris Faloutsos
+-  46359 | A Content-Based Retrieval System for Medical Images | John Anderson
+
+Keyword: data-mining
+-  49375 | Mining Models from Large Databases in Constant Time | Greg Hulten
+-  39572 | Mining Patterns in Time-Related Databases | Joseph Han
+-  85309 | A System for Mining Knowledge in Large Relational Databases | Joseph Han
+-  77329 | Mining Observational Databases for Causal Relationships | Gary Cooper
+
+Keyword: database
+-  49375 | Mining Models from Large Databases in Constant Time | Greg Hulten
+-  39572 | Mining Patterns in Time-Related Databases | Joseph Han
+-  85309 | A System for Mining Knowledge in Large Relational Databases | Joseph Han
+-  54326 | An Efficient Clustering Algorithm for Large Databases | Soha Guha
+-  65722 | Searching Multimedia Databases by Content | Chris Faloutsos
+-  85490 | An Algorithm for Discovering Clusters in Large Spatial Databases | Maria Ester
+-  77329 | Mining Observational Databases for Causal Relationships | Gary Cooper
+-  47320 | Machine Learning on Very Large Databases | Joan Catlett
+-  93937 | Scaling Clustering Algorithms to Large Databases | Paul Bradley
+-  83528 | Query by Example: the CANDID Approach | Paul Kelly
+-  46359 | A Content-Based Retrieval System for Medical Images | John Anderson
+
+Keyword: distance-measures
+-  38383 | Efficient Image Retrieval with Multiple Distance Measures | Andy Berman
+
+Keyword: image-display
+-  75036 | Image Stack Viewing and Access | Alfonso Cardenas
+
+Keyword: image-management
+-  37503 | The Virage Search Engine | James Bach
+
+Keyword: image-retrieval
+-  87124 | Learning for Content-Based Image Retrieval | Tom Huang
+-  47550 | Knowledge-Based Image Retrieval with Spatial and Temporal Constraints | Wesley Chu
+-  75036 | Image Stack Viewing and Access | Alfonso Cardenas
+-  39393 | Region-Based Image Querying | Chuck Carson
+-  38383 | Efficient Image Retrieval with Multiple Distance Measures | Andy Berman
+-  57474 | Triangle-Inequality-Based Pruning Algorithms | Andy Berman
+-  75934 | Using the Triangle Inequality for Similarity-Based Retrieval | John Barros
+-  37503 | The Virage Search Engine | James Bach
+-  83528 | Query by Example: the CANDID Approach | Paul Kelly
+-  46359 | A Content-Based Retrieval System for Medical Images | John Anderson
+
+Keyword: image-stack
+-  75036 | Image Stack Viewing and Access | Alfonso Cardenas
+
+Keyword: indexing
+-  38567 | 3D Object Recognition and Pose with Relational Indexing | Mauro Costa
+
+Keyword: information-retrieval
+-  45612 | Machine Learning in Information Retrieval | Jaime Carbonell
+
+Keyword: instance-based
+-  85711 | Instance-Based Learning Algorithms  | Dan Aha
+-  89763 | Instance-Based Learning of Independent and Graded Concepts | Dan Aha
+
+Keyword: knowledge
+-  85309 | A System for Mining Knowledge in Large Relational Databases | Joseph Han
+-  47550 | Knowledge-Based Image Retrieval with Spatial and Temporal Constraints | Wesley Chu
+
+Keyword: learning
+-  45612 | Machine Learning in Information Retrieval | Jaime Carbonell
+-  65676 | A Theory of Learning Classification Rules | Wayne Bunt
+-  74937 | Learning Classification Rules Using Neural Networks | Wayne Bunt
+-  58765 | Noise-Tolerant Relational Concept Learning | Chris Brunk
+-  87124 | Learning for Content-Based Image Retrieval | Tom Huang
+-  12568 | Queries and Concept Learning | Dave Angluin
+-  79871 | Concept Learning and Flexible Weighting | Dan Aha
+-  85711 | Instance-Based Learning Algorithms  | Dan Aha
+-  89763 | Instance-Based Learning of Independent and Graded Concepts | Dan Aha
+-  68583 | Learning from Hints in Neural Networks | Yosama Mustafa
+-  47320 | Machine Learning on Very Large Databases | Joan Catlett
+
+Keyword: lines
+-  93859 | Consistent Line Clusters for Building Recognition | Yi Li
+
+Keyword: matching
+-  38567 | 3D Object Recognition and Pose with Relational Indexing | Mauro Costa
+-  47603 | Proximity Matching using Query Trees | Ricardo Baeza-Yates
+
+Keyword: medical
+-  47550 | Knowledge-Based Image Retrieval with Spatial and Temporal Constraints | Wesley Chu
+-  83528 | Query by Example: the CANDID Approach | Paul Kelly
+-  46359 | A Content-Based Retrieval System for Medical Images | John Anderson
+
+Keyword: multimedia
+-  65722 | Searching Multimedia Databases by Content | Chris Faloutsos
+
+Keyword: neural-networks
+-  74937 | Learning Classification Rules Using Neural Networks | Wayne Bunt
+-  68583 | Learning from Hints in Neural Networks | Yosama Mustafa
+
+Keyword: pose
+-  38567 | 3D Object Recognition and Pose with Relational Indexing | Mauro Costa
+
+Keyword: pruning
+-  57474 | Triangle-Inequality-Based Pruning Algorithms | Andy Berman
+
+Keyword: queries
+-  12568 | Queries and Concept Learning | Dave Angluin
+
+Keyword: query-by-example
+-  83528 | Query by Example: the CANDID Approach | Paul Kelly
+
+Keyword: query-trees
+-  47603 | Proximity Matching using Query Trees | Ricardo Baeza-Yates
+
+Keyword: recognition
+-  38567 | 3D Object Recognition and Pose with Relational Indexing | Mauro Costa
+-  93859 | Consistent Line Clusters for Building Recognition | Yi Li
+
+Keyword: region-based
+-  39393 | Region-Based Image Querying | Chuck Carson
+
+Keyword: relational
+-  58765 | Noise-Tolerant Relational Concept Learning | Chris Brunk
+-  85309 | A System for Mining Knowledge in Large Relational Databases | Joseph Han
+
+Keyword: search
+-  37503 | The Virage Search Engine | James Bach
+
+Keyword: similarity
+-  57474 | Triangle-Inequality-Based Pruning Algorithms | Andy Berman
+-  75934 | Using the Triangle Inequality for Similarity-Based Retrieval | John Barros
+-  47603 | Proximity Matching using Query Trees | Ricardo Baeza-Yates
+
+Keyword: spatial
+-  85490 | An Algorithm for Discovering Clusters in Large Spatial Databases | Maria Ester
+-  47550 | Knowledge-Based Image Retrieval with Spatial and Temporal Constraints | Wesley Chu
+
+Keyword: temporal
+-  47550 | Knowledge-Based Image Retrieval with Spatial and Temporal Constraints | Wesley Chu
+
+Keyword: time-related
+-  39572 | Mining Patterns in Time-Related Databases | Joseph Han
+
+Keyword: triangle-inequality
+-  38383 | Efficient Image Retrieval with Multiple Distance Measures | Andy Berman
+-  57474 | Triangle-Inequality-Based Pruning Algorithms | Andy Berman
+-  75934 | Using the Triangle Inequality for Similarity-Based Retrieval | John Barros
+
+Keyword: weighting
+-  79871 | Concept Learning and Flexible Weighting | Dan Aha
